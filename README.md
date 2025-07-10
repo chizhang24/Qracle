@@ -1,4 +1,4 @@
-This repo contains the full implementation of the paper (Qracle: A Graph-Neural-Network-based Parameter Initializer for Variational Quantum Eigensolvers)[https://arxiv.org/abs/2505.01236] (Accepted by IEEE QCE25).
+This repo contains the full implementation of the paper [Qracle: A Graph-Neural-Network-based Parameter Initializer for Variational Quantum Eigensolvers](https://arxiv.org/abs/2505.01236) (Accepted by IEEE QCE25).
 
 
 
